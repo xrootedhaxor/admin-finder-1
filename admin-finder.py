@@ -1,13 +1,6 @@
-#Created for coded32 and his teamopenfire Eliminated Some bugs from my last code shared here as Guest.
-#Greets To T.O.F and Indishell
-#Thanks friends for find bugs and give suggetions
-
-#cd direcory/to/code
-#direcory/to/code>python code.py
-
-#improved Error Handling
-#Find out usefull stuffs from www.teamopenfire.com
-#"wE aRe gREat inDIans"
+#Coded by XR00T3D-H4X0R
+#Gretzz to: TeaM_CPBD members
+#Facebook: https://facebook.com/teamcpbd13337
 
 
 import httplib2
